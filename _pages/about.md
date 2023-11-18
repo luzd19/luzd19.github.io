@@ -13,8 +13,8 @@ I am Zhide Lu, a Ph.D. student at Tsinghua University. I will receive my Ph.D. i
 My research focuses on the interplay between quantum computation and quantum information, artificial intelligence (AI), and quantum physics. On the one hand, a range of tools and ideas from AI can be applied to solve complex quantum problems. On the other hand, quantum computing also brings unprecedented opportunities to enhance or innovate AI algorithms. 
 My specific research directions include:
 
-**Quantum-Enhanced machine learning**
-======
+***Quantum-Enhanced machine learning***
+-----------------
 1. Designing new quantum machine learning algorithms that offer quantum speed-ups over their classical counterparts.
 2. Finding machine learning problems that show unambitious complexity separation between quantum and classical algorithms.
 
