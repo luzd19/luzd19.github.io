@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am Zhide Lu
+
 My research focuses on the interplay between quantum computation and quantum information, artificial intelligence (AI), and quantum physics.
 On the one hand, a range of tools and ideas from AI can be applied to solve complex quantum problems. On the other hand, quantum computing also brings unprecedented opportunities to enhance or innovate AI algorithms. 
 My specific research directions include:
