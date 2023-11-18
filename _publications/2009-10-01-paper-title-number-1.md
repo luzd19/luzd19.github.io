@@ -7,8 +7,8 @@ venue: 'Phys. Rev. Applied'
 paperurl: 'https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.044039'
 ---
 
-**Zhide Lu**, Pei-Xin Shen, Dong-Ling Deng
+**Zhide Lu**, Pei-Xin Shen (co-first author), Dong-Ling Deng^{\dagger}
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+*Phys. Rev. Applied 16, 044039 (2021)* [pdf](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.044039)
 
 
