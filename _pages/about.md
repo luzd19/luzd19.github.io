@@ -30,29 +30,49 @@ My specific research directions include:
 
 1. ***Markovian Quantum Neuroevolution for Machine Learning***
    
-   **Zhide Lu**, Pei-Xin Shen (co-first author), Dong-Ling Deng<sup>$\dagger$.
+   **Zhide Lu**, Pei-Xin Shen (co-first author), Dong-Ling Deng<sup>$\dagger$</sup>.
 
    [Phys. Rev. Applied 16, 044039 (2021)](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.044039) 
 
 2. ***Deep quantum neural networks on a superconducting processor***
 
-   Xiaoxuan Pan, **Zhide Lu**(co-first author), Dong-Ling Deng<sup>$\dagger$, Luyan Sun<sup>$\dagger$, et al.
+   Xiaoxuan Pan, **Zhide Lu**(co-first author), Dong-Ling Deng<sup>$\dagger$</sup>, Luyan Sun<sup>$\dagger$</sup>, et al.
 
    [Nature Communications 14, 4006 (2023)](https://www.nature.com/articles/s41467-023-39785-8)
 
 
 3. ***Quantum continual learning overcoming catastrophic forgetting***
 
-   Wenjie Jiang, **Zhide Lu**, Dong-Ling Deng<sup>$\dagger$.
+   Wenjie Jiang, **Zhide Lu**, Dong-Ling Deng<sup>$\dagger$</sup>.
 
    [Chinese Phys. Lett. 39 050303 (2022)](https://iopscience.iop.org/article/10.1088/0256-307X/39/5/050303)
 
 4. ***Quantum neural network classifiers: A tutorial***
 
-   Weikang Li, **Zhide Lu**, Dong-Ling Deng<sup>$\dagger$.
+   Weikang Li, **Zhide Lu**, Dong-Ling Deng<sup>$\dagger$</sup>.
 
-   [SciPost Phys. Lect. Notes 61 (2022)](https://scipost.org/SciPostPhysLectNotes.61)  \quad
+   [SciPost Phys. Lect. Notes 61 (2022)](https://scipost.org/SciPostPhysLectNotes.61)  $\quad$
    [code](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers)
+
+
+5. ***Adversarial learning in quantum artificial intelligence***
+
+   Pei-Xin Shen, Wenjie Jiang, Weikang Li, **Zhide Lu**, and Dong-Ling Deng<sup>$\dagger$</sup>.
+ 
+   [Acta Phys. Sin., 2021, 70: 140302 (2021)](https://wulixb.iphy.ac.cn/en/article/doi/10.7498/aps.70.20210789) (Invited review in Chinese)
+
+6. ***Expressibility-induced concentration of quantum neural tangent kernels***
+
+   Li-Wei Yu<sup>$\dagger$</sup>, Weikang Li, Qi Ye, **Zhide Lu**, Zizhao Han, and Dong-Ling Deng<sup>$\dagger$</sup>.
+
+   [arXiv:2311.04965 (2023)](https://arxiv.org/abs/2311.04965)
+
+
+
+
+
+
+
 
 
    
