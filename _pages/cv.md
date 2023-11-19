@@ -11,5 +11,5 @@ redirect_from:
 
 ## CV
 
-Click [here](./files/paper2.pdf) to download.
+Click [here](../files/CV-zhide_lu.pdf) to download.
 
