@@ -30,10 +30,30 @@ My specific research directions include:
 
 1. ***Markovian Quantum Neuroevolution for Machine Learning***
    
-   **Zhide Lu**, Pei-Xin Shen (co-first author), Dong-Ling Deng<sup>$\dagger$
+   **Zhide Lu**, Pei-Xin Shen (co-first author), Dong-Ling Deng<sup>$\dagger$.
 
    [Phys. Rev. Applied 16, 044039 (2021)](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.044039) 
 
+2. ***Deep quantum neural networks on a superconducting processor***
+
+   Xiaoxuan Pan, **Zhide Lu**(co-first author), Dong-Ling Deng<sup>$\dagger$, Luyan Sun<sup>$\dagger$, et al.
+
+   [Nature Communications 14, 4006 (2023)](https://www.nature.com/articles/s41467-023-39785-8)
 
 
+3. ***Quantum continual learning overcoming catastrophic forgetting***
+
+   Wenjie Jiang, **Zhide Lu**, Dong-Ling Deng<sup>$\dagger$.
+
+   [Chinese Phys. Lett. 39 050303 (2022)](https://iopscience.iop.org/article/10.1088/0256-307X/39/5/050303)
+
+4. ***Quantum neural network classifiers: A tutorial***
+
+   Weikang Li, **Zhide Lu**, Dong-Ling Deng<sup>$\dagger$.
+
+   [SciPost Phys. Lect. Notes 61 (2022)](https://scipost.org/SciPostPhysLectNotes.61)  \quad
+   [code](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers)
+
+
+   
 
