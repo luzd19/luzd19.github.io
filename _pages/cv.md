@@ -9,7 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-## CV
-
 Click [here](../files/CV-zhide_lu.pdf) to download.
 
