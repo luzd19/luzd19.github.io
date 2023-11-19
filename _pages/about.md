@@ -19,11 +19,10 @@ My specific research directions include:
 **Quantum-enhanced machine learning**
 - Designing new quantum machine learning algorithms that offer quantum speed-ups over their classical counterparts.<br>
 - Finding machine learning problems that show unambitious complexity separation between quantum and classical algorithms.
-
 **Machine learning for quantum physics**
-   - Solving quantum many-body problems, such as finding the system's ground state and simulating its dynamics.<br>
-   - Developing explainable, trustworthy machine learning methods.<br>
-   - Developing efficient methods that search for the quantum circuit architectures.
+  - Solving quantum many-body problems, such as finding the system's ground state and simulating its dynamics.<br>
+  - Developing explainable, trustworthy machine learning methods.<br>
+  - Developing efficient methods that search for the quantum circuit architectures.
 
 
 ## Publications:
