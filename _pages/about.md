@@ -17,11 +17,12 @@ My research focuses on the interplay between quantum computation and quantum inf
 My specific research directions include:
 
 **Quantum-enhanced machine learning**
-- Designing new quantum machine learning algorithms that offer quantum speed-ups over their classical counterparts.<br>
+- Designing new quantum machine learning algorithms that offer quantum speed-ups over their classical counterparts.
 - Finding machine learning problems that show unambitious complexity separation between quantum and classical algorithms.
+
 **Machine learning for quantum physics**
-  - Solving quantum many-body problems, such as finding the system's ground state and simulating its dynamics.<br>
-  - Developing explainable, trustworthy machine learning methods.<br>
+  - Solving quantum many-body problems, such as finding the system's ground state and simulating its dynamics.
+  - Developing explainable, trustworthy machine learning methods.
   - Developing efficient methods that search for the quantum circuit architectures.
 
 
