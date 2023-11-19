@@ -32,7 +32,7 @@ My specific research directions include:
    
    **Zhide Lu**, Pei-Xin Shen (co-first author), Dong-Ling Deng<sup>$\dagger$
 
-   Phys. Rev. Applied 16, 044039 (2021)
+   [Phys. Rev. Applied 16, 044039 (2021)](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.044039) 
 
 
 
