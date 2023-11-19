@@ -1,12 +1,13 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## About:
 
 I am Zhide Lu, a Ph.D. student at Tsinghua University. I will receive my Ph.D. in 2024 advised by Dong-Ling Deng.
 
