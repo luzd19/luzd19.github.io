@@ -69,6 +69,31 @@ My specific research directions include:
 
 
 
+## Talks & Conferences:
+
+1. **2023 12th International Conference on Computing and Pattern Recognition**
+   
+   Invited talk: *Recent Progress on Deep Quantum Neural Network*
+
+2. **APS March Meeting 2023, Virtual**
+
+   Contributed talk: *Markovian Quantum Neuroevolution for Machine Learning*
+
+3. **PIERS2023 (Prague, Czech), Session "Quantum Computation and Quantum Simulation"**
+
+   Contributed talk: *Deep Quantum Neural Networks on a Superconducting Processor*
+
+4. **The 2nd International Conference on Emerging Quantum Technology (2023)**
+
+   Poster: *Deep quantum neural networks on a superconducting processor*
+
+5. **The 6-th International Conference on ``Quantum Information, Spacetime, and Topological Matter**
+
+   Poster: *Markovian Quantum Neuroevolution for Machine Learning*
+
+
+
+
 
 
 
