@@ -28,6 +28,7 @@ My specific research directions include:
 
 ## Publications:
 
+
 6. ***Expressibility-induced concentration of quantum neural tangent kernels***
 
    Li-Wei Yu<sup>$\dagger$</sup>, Weikang Li, Qi Ye, **Zhide Lu**, Zizhao Han, and Dong-Ling Deng<sup>$\dagger$</sup>.
