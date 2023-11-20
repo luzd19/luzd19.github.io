@@ -91,7 +91,7 @@ My specific research directions include:
 
    Poster: *Deep quantum neural networks on a superconducting processor*
 
-1. **The 6-th International Conference on ``Quantum Information, Spacetime, and Topological Matter'' (2021)**
+1. **The 6-th International Conference on "Quantum Information, Spacetime, and Topological Matter" (2021)**
 
    Poster: *Markovian Quantum Neuroevolution for Machine Learning*
 
