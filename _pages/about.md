@@ -79,11 +79,11 @@ My specific research directions include:
    
    Invited talk: *Recent Progress on Deep Quantum Neural Networks*
 
-4. **APS March Meeting, Virtual (2023)**
+4. **APS March Meeting 2023, Virtual**
 
    Contributed talk: *Markovian Quantum Neuroevolution for Machine Learning*
 
-3. **PIERS (Prague, Czech), Session "Quantum Computation and Quantum Simulation (2023)"**
+3. **PIERS2023 (Prague, Czech), Session "Quantum Computation and Quantum Simulation" (2023)**
 
    Contributed talk: *Deep Quantum Neural Networks on a Superconducting Processor*
 
