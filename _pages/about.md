@@ -17,13 +17,13 @@ My research focuses on the interplay between quantum information, artificial int
 My specific research directions include:
 
 **Quantum-enhanced machine learning**
-- Designing new quantum machine learning algorithms that offer quantum speed-ups over their classical counterparts.
-- Finding machine learning problems that show unambitious complexity separation between quantum and classical algorithms.
+- Designing new quantum machine learning algorithms that offer quantum speed-ups over their classical counterparts
+- Finding machine learning problems that show unambitious complexity separation between quantum and classical algorithms
 
 **Machine learning for quantum physics**
-  - Solving quantum many-body problems, such as finding the system's ground state and simulating its dynamics.
-  - Developing explainable, trustworthy machine learning methods.
-  - Developing efficient methods that search for the quantum circuit architectures.
+  - Solving quantum many-body problems, such as finding the system's ground state and simulating its dynamics
+  - Developing explainable, trustworthy machine learning methods
+  - Developing efficient methods that search for the quantum circuit architectures
 
 
 ## Publications:
@@ -31,7 +31,7 @@ My specific research directions include:
 
 6. ***Expressibility-induced concentration of quantum neural tangent kernels***
 
-   Li-Wei Yu<sup>$\dagger$</sup>, Weikang Li, Qi Ye, **Zhide Lu**, Zizhao Han, and Dong-Ling Deng<sup>$\dagger$</sup>.
+   Li-Wei Yu<sup>$\dagger$</sup>, Weikang Li, Qi Ye, **Zhide Lu**, Zizhao Han, and Dong-Ling Deng<sup>$\dagger$</sup>
 
    [arXiv:2311.04965 (2023)](https://arxiv.org/abs/2311.04965)
 
@@ -45,28 +45,28 @@ My specific research directions include:
 
 4. ***Quantum neural network classifiers: A tutorial***
 
-   Weikang Li, **Zhide Lu**, Dong-Ling Deng<sup>$\dagger$</sup>.
+   Weikang Li, **Zhide Lu**, Dong-Ling Deng<sup>$\dagger$</sup>
 
    [SciPost Phys. Lect. Notes 61 (2022)](https://scipost.org/SciPostPhysLectNotes.61)  $\quad$
    [code](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers)
 
 3. ***Quantum continual learning overcoming catastrophic forgetting***
 
-   Wenjie Jiang, **Zhide Lu**, Dong-Ling Deng<sup>$\dagger$</sup>.
+   Wenjie Jiang, **Zhide Lu**, Dong-Ling Deng<sup>$\dagger$</sup>
 
    [Chinese Phys. Lett. 39 050303 (2022)](https://iopscience.iop.org/article/10.1088/0256-307X/39/5/050303)
    
 
 2. ***Adversarial learning in quantum artificial intelligence***
 
-   Pei-Xin Shen, Wenjie Jiang, Weikang Li, **Zhide Lu**, and Dong-Ling Deng<sup>$\dagger$</sup>.
+   Pei-Xin Shen, Wenjie Jiang, Weikang Li, **Zhide Lu**, and Dong-Ling Deng<sup>$\dagger$</sup>
  
    [Acta Phys. Sin., 2021, 70: 140302 (2021)](https://wulixb.iphy.ac.cn/en/article/doi/10.7498/aps.70.20210789) (Invited review in Chinese)
 
 
 1. ***Markovian Quantum Neuroevolution for Machine Learning***
    
-   **Zhide Lu**, Pei-Xin Shen (co-first author), Dong-Ling Deng<sup>$\dagger$</sup>.
+   **Zhide Lu**, Pei-Xin Shen (co-first author), Dong-Ling Deng<sup>$\dagger$</sup>
 
    [Phys. Rev. Applied 16, 044039 (2021)](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.044039) 
 
