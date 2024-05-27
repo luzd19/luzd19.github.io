@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-Click [here](../files/CV.pdf) to download.
+Click [here](../files/CV_Zhide_Lu.pdf) to download.
