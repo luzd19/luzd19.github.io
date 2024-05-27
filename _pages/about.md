@@ -42,7 +42,7 @@ My specific research directions include:
    Hang Dong, Pengfei Zhang, Si Jiang, Weikang Li, Zhide Lu, Zheng-Zhi Sun, Hekang Li, Zhen Wang, Chao Song, Qiujiang Guo, Fangli Liu, Zhe- 
    Xuan Gong, Alexey V Gorshkov, Norman Y Yao, Thomas Iadecola, Francisco Machado, H Wang, Dong-Ling Deng
 
-  [arXiv:2401.04333 (2024)](https://arxiv.org/abs/2401.04333)
+   [arXiv:2401.04333 (2024)](https://arxiv.org/abs/2401.04333)
 
 6. ***Expressibility-induced concentration of quantum neural tangent kernels***
 
