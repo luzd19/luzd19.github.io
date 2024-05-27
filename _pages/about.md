@@ -19,6 +19,7 @@ My specific research directions include:
 **Quantum-enhanced machine learning**
 - Designing new quantum machine learning algorithms that offer quantum speed-ups over their classical counterparts
 - Finding machine learning problems that show unambitious complexity separation between quantum and classical algorithms
+- developing theoretical and empirical characterization of new classes of quantum machine learning models
 
 **Machine learning for quantum physics**
   - Solving quantum many-body problems, such as finding the system's ground state and simulating its dynamics
@@ -28,6 +29,20 @@ My specific research directions include:
 
 ## Publications:
 
+7. ***Non-Hermitian Persistent Current Transport***
+   
+   Pei-Xin Shen, **Zhide Lu**, Jose L Lado, Mircea Trif
+
+   [arXiv:2403.09569 (2024)](https://arxiv.org/abs/2403.09569)
+
+7. ***Long-lived topological time-crystalline order on a quantum processor***
+
+   Liang Xiang, Wenjie Jiang, Zehang Bao, Zixuan Song, Shibo Xu, Ke Wang, Jiachen Chen, Feitong Jin, Xuhao Zhu, Zitian Zhu, Fanhao Shen, Ning 
+   Wang, Chuanyu Zhang, Yaozu Wu, Yiren Zou, Jiarun Zhong, Zhengyi Cui, Aosai Zhang, Ziqi Tan, Tingting Li, Yu Gao, Jinfeng Deng, Xu Zhang, 
+   Hang Dong, Pengfei Zhang, Si Jiang, Weikang Li, Zhide Lu, Zheng-Zhi Sun, Hekang Li, Zhen Wang, Chao Song, Qiujiang Guo, Fangli Liu, Zhe- 
+   Xuan Gong, Alexey V Gorshkov, Norman Y Yao, Thomas Iadecola, Francisco Machado, H Wang, Dong-Ling Deng
+
+  [arXiv:2401.04333 (2024)](https://arxiv.org/abs/2401.04333)
 
 6. ***Expressibility-induced concentration of quantum neural tangent kernels***
 
@@ -74,6 +89,9 @@ My specific research directions include:
 
 ## Talks & Conferences:
 
+6. **QUANTUMatter 2024 (San Sebastian · Donostia, Spain, 2024)**
+   
+   Poster: *Deep quantum neural networks equipped with the backpropagation algorithm*
 
 5. **12th International Conference on Computing and Pattern Recognition (2023)**
    
