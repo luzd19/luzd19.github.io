@@ -29,7 +29,7 @@ My specific research directions include:
 
 ## Publications:
 
-7. ***Non-Hermitian Persistent Current Transport***
+8. ***Non-Hermitian Persistent Current Transport***
    
    Pei-Xin Shen, **Zhide Lu**, Jose L Lado, Mircea Trif
 
